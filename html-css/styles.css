@@ -34,7 +34,7 @@ body {
 .address-wrapper{
    font-family: 'Ubuntu Condensed', sans-serif;
    color:white;
-   
+
 }
 
 .left-column {
@@ -50,4 +50,10 @@ body {
 
 .icon i{
     font-size: 2em;
+}
+
+.banner-image img{
+    width: 216px;
+    height: 100%;
+
 }
