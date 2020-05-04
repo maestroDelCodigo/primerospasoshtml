@@ -1,0 +1,43 @@
+/*Common nav style*/
+body {
+    margin: 0px;
+
+}
+
+/*Common nav style*/
+.navigation-wrapper{
+    height: 190px;
+    background-color:#11122b;
+    color:#cbcbcb;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 60px 100px;
+
+}
+.left.column>.contact-hours-wrapper{
+    display:grid;
+    grid-template-columns: 1fr;
+    grid-gap: 10px;
+
+}
+    
+
+.address-wrapper{
+   
+}
+
+.left-column {
+    display: flex;
+    align-items: center;
+}
+
+.icon {
+    display:flex;
+    margin-right: 15px;
+
+}
+
+.icon i{
+    font-size: 2em;
+}
