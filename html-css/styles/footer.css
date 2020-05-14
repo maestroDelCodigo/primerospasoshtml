@@ -1,0 +1,79 @@
+.redes-sociales{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 300px;
+    
+    
+}
+
+.footer-section>.redes-sociales a{
+    font-size:1.5em;
+    color:#cbcbcb;
+    transition: 0.5s;
+    
+}
+ 
+.footer-section>.redes-sociales a:hover{
+    color:#cea135;
+   
+    
+}
+
+.footer-section>.copyright{
+    margin-bottom: 42px;
+    font-size: 0.7em;
+    columns: #858585;
+    
+}
+
+.footer-section>.banner-image img{
+    width: 180px;
+    height: 100%;   
+    filter: brightness(50%)
+}
+
+.footer-section>.links-wrapper a{
+    font-family: "ubuntu condensed", sans-serif;
+    color: #cbcbcb;
+    text-decoration: none;
+    transition: 0,5s;
+    align-items: center;
+}
+
+.footer-section{
+    height: 400px;
+    background-color:#11122b;
+    color:#cbcbcb;
+    font-family: "ubuntu condensed", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: -4px;
+    
+
+}
+
+.footer-section>.footer-phone-hours span {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size:1em;
+    letter-spacing: 2px;
+}
+
+.footer-section>.footer-phone-hours>.hours {
+  font-size:0.8em;
+  color: #cea135;
+  text-transform: uppercase;
+
+    
+}
+
+.footer-section>.links-wrapper{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 400px;
+    
+}
